@@ -1,7 +1,6 @@
 # FIFA Career Mode
 
  this is a fifa world cup career mode simulator where im the manager for a national team
-You have just started a new FIFA Career Mode as the manager of your favorite national team.
 
 The World Cup begins in one week, and your decisions will determine whether your team becomes champions.
 
