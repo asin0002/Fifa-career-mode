@@ -1,7 +1,12 @@
+# Transfer Decisions
 
-# Team Training
+You make bold changes to the starting lineup.
 
-The team improves fitness and chemistry.
+Some experienced players are benched, and young talents are brought in.
 
-- [Play aggressively in the match](finals.md)
-- [Play defensively](fired.md)
+The media is questioning your decisions.
+
+What do you do next?
+
+- [Trust your new lineup in the World Cup](finals.md)
+- [Revert back to the original squad](training.md)
