@@ -1,8 +1,8 @@
 # national team call ups
 
+The pressure of the World Cup is overwhelming for the manager.
 
-
-You make bold changes to the starting lineup.
+You make bold changes to the starting lineup and to the 26 man squad
 
 Some experienced players are benched, and young talents are brought in.
 
